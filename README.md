@@ -6,8 +6,7 @@ How to
 2. Create a **`db.json`** file
 3. Visit [https://my-json-server.typicode.com/**<your-username>/<your-repo>**](https://my-json-server.typicode.com/typicode/demo) to access your server
 
-Every object in object arrary must have **property id**
-**<font color=red>條件表示式</font>**
+Every object in object arrary must have **<font color=red>property id</font>**
 
 ```css
 //example testing:
