@@ -8,7 +8,9 @@ How to
 
 Every object in object arrary must have 🏆**property id**
 
+[http://my-json-server.typicode.com/garywu125/apitest/posts/1](http://my-json-server.typicode.com/garywu125/apitest/posts/1)
+
 ```css
 //example testing:
-[http://my-json-server.typicode.com/garywu125/apitest/posts/1](http://my-json-server.typicode.com/garywu125/apitest/posts/1)
+http://my-json-server.typicode.com/garywu125/apitest/posts/1
 ```
