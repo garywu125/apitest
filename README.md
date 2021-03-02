@@ -12,7 +12,3 @@ Example testing :
 
 [http://my-json-server.typicode.com/garywu125/apitest/posts/1](http://my-json-server.typicode.com/garywu125/apitest/posts/1)
 
-
-[JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-
-⭐⭐⭐⭐
